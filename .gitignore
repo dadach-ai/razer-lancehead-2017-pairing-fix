@@ -1,0 +1,17 @@
+# Do not commit or redistribute Razer proprietary files or patched builds
+*.exe
+*.dll
+*.resources
+*.zip
+*.7z
+*.msi
+*.bin
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local build output
+extracted-r6/
+lancehead-2017-test/
